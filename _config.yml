@@ -1,13 +1,11 @@
 # Site setings
-name: 'Rich Hewitt'
+name: ''
 description: ''
 meta_description: 'The personal website of Rich Hewitt'
 # logo: ''
 favicon: 'assets/images/favicon.ico'
 baseurl: 
-production_url: https://horace.netlify.com/
-# disqus: 'justgoodthemes'
-# mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+production_url: https://richhewitt.com/
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
 ga_analytics: 
