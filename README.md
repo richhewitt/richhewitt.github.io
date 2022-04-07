@@ -1,4 +1,4 @@
-# Read Me
+# My Little Website
 
 Needed to update my personal website so took this opportunity to learn more about Github Pages, Ruby, and Jekyll.
 
