@@ -49,7 +49,8 @@
         {% else %}
         {% include header.html %}
         {% endif %}
-
+        
+        <!--
         {{ content }}
 
         {% if paginator.total_posts > site.paginate %}
@@ -61,10 +62,13 @@
         {% if site.mailchimp_url and page.class == 'tag-template' %}
         {% include newsletter-box.html %}
         {% endif %}
+        -->
 
         <footer id="colophon" class="site-footer outer">
             <div class="site-footer-inside">
+                <!--
                 {% include social-links.html %}
+                -->
                 <p class="site-info">
                     <a href="#">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }}
                     Powered by <a target="_blank" href="https://jekyllrb.com/">Jekyll</a>
