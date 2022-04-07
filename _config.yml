@@ -2,7 +2,7 @@
 name: 'Rich Hewitt'
 description: ''
 meta_description: 'The personal website of Rich Hewitt'
-logo: ''
+# logo: ''
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://horace.netlify.com/
@@ -27,11 +27,11 @@ contact_page_description: ""
 thankyou_page_description: ""
 
 # Social links
-twitter: 'hewittjustdoit'
-facebook: 'richhewitt'
 github: 'richhewitt'
-instagram: 'richardlhewitt'
 linkedin: 'richhewitt'
+twitter: 'hewittjustdoit'
+instagram: 'richardlhewitt'
+facebook: 'richhewitt'
 
 # Navigation
 # navigation:
