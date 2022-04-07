@@ -59,4 +59,10 @@
         <span class="screen-reader-text">ProductHunt</span>
     </a>
     {% endif %}
+    {% if site.email %}
+    <a href="mailto:{{ site.email }}" class="btn btn-icon btn-secondary" target="_blank" rel="noopener">
+        {% include icons/envelope.svg %}
+        <span class="screen-reader-text">Email</span>
+    </a>
+    {% endif %}
 </p>
