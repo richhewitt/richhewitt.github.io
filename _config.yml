@@ -1,8 +1,8 @@
 # Site setings
-name: 'Horace'
-description: 'Horace is a simple Jekyll theme for writers and bloggers. Explore it yourself.'
-meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
-logo: 'assets/images/logo.png'
+name: 'Rich Hewitt'
+description: ''
+meta_description: 'The personal website of Rich Hewitt'
+logo: ''
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://horace.netlify.com/
@@ -18,13 +18,13 @@ author:
   name: 'Richard Hewitt'
   image: 'authorimage.jpg'
   greetings: 'Rich Hewitt'
-  description: "Hey there! I'm an experience Product Owner and Scrum Master known for moving fast and getting things done.|Current focus is on web3.|Reach out to me on social media or email(at)richhewitt.com"
+  description: "Hey there! I'm an experience Product Owner and Scrum Master known for moving fast and getting things done.  Current focus is on web3.  Reach out to me on social media or email(at)richhewitt.com"
   bio: ''
 
 # Contact form setings
-email: email@richhewitt.com
+email:
 contact_page_description: ""
-thankyou_page_description: "Your message has been successfully sent. I will reply soon!"
+thankyou_page_description: ""
 
 # Social links
 twitter: 'hewittjustdoit'
