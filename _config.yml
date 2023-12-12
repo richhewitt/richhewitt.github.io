@@ -13,9 +13,9 @@ ga_analytics:
 
 # Author
 author:
-  name: 'Rich Hewitt'
+  name: 'Richard Hewitt'
   image: 'authorimage.jpg'
-  greetings: 'Rich Hewitt'
+  greetings: 'Richard Hewitt'
   description: "Hey there! I'm a Product Manager with 10 years experience with web, mobile, and IoT in healthcare, agriculture, and manufacturing.  Outside of work, I love skiing, sailing, and Bitcoin :)"
   bio: ''
 
