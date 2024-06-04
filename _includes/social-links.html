@@ -10,7 +10,8 @@
         {% include icons/facebook.svg %}
         <span class="screen-reader-text">Facebook</span>
     </a>
-        {% if site.youtube %}
+    {% endif %}    
+    {% if site.youtube %}
     <a href="https://www.youtube.com/{{ site.youtube }}" class="btn btn-icon btn-secondary" target="_blank" rel="noopener">
         {% include icons/youtube.svg %}
         <span class="screen-reader-text">Youtube</span>
